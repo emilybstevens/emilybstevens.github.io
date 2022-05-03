@@ -19,7 +19,7 @@ h2 {
 
 h3 {
     font-size: 1.75rem;
-    font-weight: 1000;
+    font-weight: 500;
     letter-spacing: 1px;
     text-align: center;
     color: #8c4646;
@@ -132,7 +132,7 @@ h5 {
 }
 
 .fragment-three .custom-indicator {
-    background-color: #cc7161 !important;
+    background-color: #8c4646 !important;
 }
 
 .three-title-underline{
@@ -144,13 +144,17 @@ h5 {
     margin-bottom: 50px;
 }
 
+.fragment-three .spacer {
+    margin: 25px;
+}
+
 .fragment-four {
     background-color: #edc492;
     color: ##8c4646;
 }
 
 .fragment-four i {
-    color: #cc7161;
+    color: #8c4646;
 }
 
 .fragment-four .labels {
