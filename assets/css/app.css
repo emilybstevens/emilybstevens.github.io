@@ -62,6 +62,7 @@ h5 {
     padding: 7.3vw 2.6vw 2.6vw 2.6vw;
     background-color: #eec399;
     background-image: url(../../assets/images/background.png);
+    background-size: 187.5vw;
     background-repeat: repeat-x;
     color: #834a48;
     display: flex;
@@ -134,6 +135,7 @@ h5 {
     background-color: #f9d49c;
     color: #8c4646;
     background-image: url(../../assets/images/background.png);
+    background-size: 187.5vw;
     background-repeat: repeat-x;
 }
 
@@ -216,6 +218,7 @@ h5 {
     color: #8c4646;
     text-align: center; 
     background-image: url(../../assets/images/background.png);
+    background-size: 187.5vw;
     background-repeat: repeat-x;
 }
 
