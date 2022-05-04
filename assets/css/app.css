@@ -158,6 +158,9 @@ h5 {
 
 .fragment-three .custom-indicator {
     background-color: #8c4646 !important;
+    width: 1.67vw;
+    height: 0.16vw;
+    margin: 0vw 0.16vw;
 }
 
 .three-title-underline{
