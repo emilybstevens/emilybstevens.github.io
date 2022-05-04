@@ -246,7 +246,8 @@ h5 {
 
 .fragment-six {
     color: #8c4646;
-    padding: 3.6vw;
+    padding-top: 3.6vw;
+    padding-left: 2.6vw;
     background-color: #edc492;
 }
 
@@ -257,6 +258,7 @@ h5 {
     font-weight: 900;
     margin-bottom: 1.04vw;
     margin-top: 1.04;
+    
     /* letter-spacing: 2px; */
 }
 .fragment-six .social-icon {
