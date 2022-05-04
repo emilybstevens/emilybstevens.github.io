@@ -1,23 +1,8 @@
-@media (prefers-color-scheme: dark) {
-    body.systemDarkPreference {
-      background-color: black;
-    }
-  }
-
-/* Default */  
-body{
-    background-color: white;
-  }
-/* Dark */
-body.dark {
-    background-color: black;
-  }
-
-
 html, body {
     font-family: 'Raleway', sans-serif;
     font-size: 1.1vw;
     color: #8c4646;
+    background-color:#eec492;
 }
 
 h1 {
