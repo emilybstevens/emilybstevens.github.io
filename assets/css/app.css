@@ -74,7 +74,7 @@ h5 {
 }
 
 .fragment-one img {
-    border-radius: 8px;
+    border-radius: .42vw;
     float: left; 
     width: 14vw;
     margin-right: 2vw;
@@ -91,6 +91,7 @@ h5 {
     display: flex; 
     justify-content: center;
     align-items: center;
+    position: relative;
     margin-top: 4.7vw;
 }
 
