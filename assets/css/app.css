@@ -168,7 +168,7 @@ h5 {
     border: 0;
     height: 1px;
     background: #333;
-    background-image: linear-gradient(to right, #f9d49c, #8c4646, #f9d49c);
+    background-image: linear-gradient(to right, #edc492, #8c4646, #f9d49c);
     max-width: 18.2vw;
     margin-bottom: 2.6vw;
 }
