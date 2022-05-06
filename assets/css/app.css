@@ -48,6 +48,7 @@ h5 {
 .btn-primary:focus {
     background-color: #834a48 !important;
     border-color: #834a48 !important;
+    color: #f9d49c;
 }
 
 .title-underline{
